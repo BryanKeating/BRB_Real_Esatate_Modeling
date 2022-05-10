@@ -1,1 +1,2 @@
-# BRB_Reality_Modeling
+# BRB_Realty_Modeling
+## Business Understanding
