@@ -21,21 +21,21 @@ For this project, we utilized the following sources of data:
 Final Data Set-20,632
 
 ## Modeling
-1. Linear Regression Model
+1. Linear Regression Model - Our data showed that Sqft Living was the most important feature. 
 
 ![regression_plots](https://user-images.githubusercontent.com/103067635/168381942-1e6b0982-3c15-4583-b2c0-bcba6fbac29b.png)
 
 
-2. School District Rating vs. Price
+2. School District Rating vs. Price - This showed us that a school district rating with 4 or 5 stars commanded a higher home price. 
 
 ![SCHOOL_DISTRICTS](https://user-images.githubusercontent.com/103067635/168381493-28ce54e6-22de-4e75-96c4-e8a7391ed1f3.png)
 
 
-3. Saftey Rating vs. Price
+3. Saftey Rating vs. Price - Neighborhood Crime Rate does now show any impact but please see limitations for more info. 
 
 ![safety_rating_plot](https://user-images.githubusercontent.com/103067635/168381424-0ea11683-f762-44e1-9181-5c82ca008868.png)
 
-4. Age of Home vs. Price
+4. Age of Home vs. Price - Individually Age of Home didn't show an impact when compared to Price but it added to our overall model. 
 
 ![home_age_v_price](https://user-images.githubusercontent.com/103067635/168381400-4b86b7c0-907d-47a9-b3f7-99999a063483.png)
 
