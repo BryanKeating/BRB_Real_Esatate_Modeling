@@ -10,12 +10,13 @@ At BRB reality, our job is to find solutions to your Real Estate Goals.  We crea
 
 ## Data Understanding and Analysis
 For this project, we utilized the following sources of data:
-    1 . KCSO Offense Reports 2020-Present 
-        This data set gave us criminal offenses based on each Zip Code. We created a rating sytem and rated them from 0-5 based on the number of crimes in          each Zip Code. The higher our saftey rating-the lower the crime.  (55,000 Crimes)
+    
+    1. KCSO Offense Reports 2020-Present 
+    This data set gave us criminal offenses based on each Zip Code. We created a rating sytem and rated them from 0-5 based on the number of crimes             in each Zip Code. The higher our saftey rating-the lower the crime.  (55,000 Crimes)
     2. KC_Hosusing_Data
-        This data set gave us various factors in predicting the price of a house. From this data, we used price, square foot living, number of bedrooms,            and the age of each house. We nemoved the outlier house that contained 33 bedroom inorder to better visualize our data. (21,500 homes)
+    This data set gave us various factors in predicting the price of a house. From this data, we used price, square foot living, number of bedrooms,  and the age of each house. We nemoved the outlier house that contained 33 bedroom inorder to better visualize our data. (21,500 homes)
     3. WA State School District Rankings 2020
-        This data set gives us School District Ranking tied to each house's zip code. We used this data set to group each house into School Districts by            zip code and then compared our results to the school districts rating. (250 School Rankings)
+    This data set gives us School District Ranking tied to each house's zip code. We used this data set to group each house into School Districts by           zip code and then compared our results to the school districts rating. (250 School Rankings)
 
 Final Data Set-20,632
 
@@ -49,7 +50,7 @@ No linear Data
 
 
 
-## Reccomendations
+## Recomendations
 We concluded that in addition to Sqaure foot living, the most important features to include are School Rating, Saftey Rating, and Home age. We bleive that with further exploration, we recomneded that focusing on the data points under out profit line, especially those with high saftey rating, high school ratings, and high grade scores. Further, with continued exploration, we recommend focusing on the data points under our profit line - especially those with High Safety Rating, High School Rating, and High Grade scores.
 
 
