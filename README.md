@@ -1,4 +1,4 @@
-# BRB Reality Modeling
+# BRB Reality Co Modeling
 ## Overview
 For this project, you will use multiple linear regression modeling to analyze house sales in a northwestern county.
     
