@@ -1,6 +1,6 @@
 # BRB_Reality_Modeling
 ## Overview
-For this project, we were tasked to address the following prompt
+For this project, you will use multiple linear regression modeling to analyze house sales in a northwestern county.
     
 
     
@@ -25,17 +25,16 @@ Final Data Set-20,632
 ![regression_plots](https://user-images.githubusercontent.com/103067635/168381942-1e6b0982-3c15-4583-b2c0-bcba6fbac29b.png)
 
 
-
 2. School District Rating vs. Price
+
 ![SCHOOL_DISTRICTS](https://user-images.githubusercontent.com/103067635/168381493-28ce54e6-22de-4e75-96c4-e8a7391ed1f3.png)
 
-3. Square Foot Living vs. Price
 
-4. Saftey Rating vs. Price
+3. Saftey Rating vs. Price
 
 ![safety_rating_plot](https://user-images.githubusercontent.com/103067635/168381424-0ea11683-f762-44e1-9181-5c82ca008868.png)
 
-5. Age of Home vs. Price
+4. Age of Home vs. Price
 
 ![home_age_v_price](https://user-images.githubusercontent.com/103067635/168381400-4b86b7c0-907d-47a9-b3f7-99999a063483.png)
 
