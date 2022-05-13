@@ -22,17 +22,22 @@ Final Data Set-20,632
 ## Modeling
 1. Linear Regression Model
 
+![regression_plots](https://user-images.githubusercontent.com/103067635/168381942-1e6b0982-3c15-4583-b2c0-bcba6fbac29b.png)
 
 
 
 2. School District Rating vs. Price
+![SCHOOL_DISTRICTS](https://user-images.githubusercontent.com/103067635/168381493-28ce54e6-22de-4e75-96c4-e8a7391ed1f3.png)
 
 3. Square Foot Living vs. Price
 
 4. Saftey Rating vs. Price
 
+![safety_rating_plot](https://user-images.githubusercontent.com/103067635/168381424-0ea11683-f762-44e1-9181-5c82ca008868.png)
+
 5. Age of Home vs. Price
 
+![home_age_v_price](https://user-images.githubusercontent.com/103067635/168381400-4b86b7c0-907d-47a9-b3f7-99999a063483.png)
 
 
 
@@ -46,4 +51,19 @@ No linear Data
 
 
 ## Reccomendations
-If you take our regression Model 
+We concluded that in addition to Sqaure foot living, the most important features to include are School Rating, Saftey Rating, and Home age. We bleive that with further exploration, we recomneded that focusing on the data points under out profit line, especially those with high saftey rating, high school ratings, and high grade scores. Further, with continued exploration, we recommend focusing on the data points under our profit line - especially those with High Safety Rating, High School Rating, and High Grade scores.
+
+
+## Limitations and Next Steps
+
+**Limitations
+    We weren’t able to tie in pop data to crime, so highly populated areas are going to seem more dangerous, and we did not distinguish between types of crime (petty theft v assault for example)
+    Our data was outdated (2014-2015) and does not properly accoutn for currrent market trends
+    To make this model more accurate, we would need at least 5-10 years worth of data
+**Normality
+    Does a good job at explaining price within 2 std of the mean, so homes priced between 655. You can see as the price increases, so does variance
+**Next Steps
+    Compare linear Data
+    Further Investigate Safety Data
+    Consider the cost of construction/ renovation vs. current value
+    Explore Date of construction with cost of construction vs. current value
