@@ -1,6 +1,6 @@
-# BRB Reality Co Modeling
+# BRB Realty Co Modeling
 ## Overview
-For this project, you will use multiple linear regression modeling to analyze house sales in a northwestern county.
+Our new company, BRB Realty, has been hired by a real estate firm to discover trends in the housing market within King's County, WA. 
     
 
     
