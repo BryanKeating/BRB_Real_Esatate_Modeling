@@ -1,4 +1,11 @@
 # BRB Realty Co Modeling
+
+Bryan and Brandon - Technical Leads
+
+Bryan - Presentation Lead 
+
+Rishi - README and Github Lead
+
 ## Overview
 Our new company, BRB Realty, has been hired by a real estate firm to discover trends in the housing market within King's County, WA. 
     
@@ -6,10 +13,6 @@ Our new company, BRB Realty, has been hired by a real estate firm to discover tr
     
 ## Business Understanding
 At BRB reality, our job is to find solutions to your Real Estate Goals.  We created mamathematical models which predict Real Estate data, allowing us to give you calculated recommendations with calculated risk. 
-
-Bryan and Brandon - Technical Leads
-Bryan - Presentation Lead 
-Rishi - README and Github Lead
 
 
 ## Data Understanding and Analysis
