@@ -1,10 +1,10 @@
 # BRB Realty Co Modeling
 
-Bryan and Brandon - Technical Leads
+Bryan Keating and Brandon - Technical Leads
 
-Bryan - Presentation Lead 
+Bryan Keating - Presentation Lead 
 
-Rishi - README and Github Lead
+Rishi - README and Github
 
 ## Overview
 Our new company, BRB Realty, has been hired by a real estate firm to discover trends in the housing market within King's County, WA. 
